@@ -6,7 +6,7 @@ Certificate Link: https://v1.scrimba.com/certificate/uxyeZ9hM/gfrontend
 
 [Learn React](https://v2.scrimba.com/learn-react-c0e)
 
-[Advanced React](https://v2.scrimba.com/advanced-react-c02h>
+[Advanced React](https://v2.scrimba.com/advanced-react-c02h>)
 
 [Learn Flexbox](https://v2.scrimba.com/learn-flexbox-c0k) 
 
