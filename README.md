@@ -4,9 +4,11 @@ Courses Completed
 Frontend Developer Career Path on https://www.scrimba.com 
 Certificate Link: https://v1.scrimba.com/certificate/uxyeZ9hM/gfrontend 
 
-Learn React on https://www.scrimba.com
+[Learn React](https://v2.scrimba.com/learn-react-c0e)
 
-Learn Flexbox on https://www.scrimba.com
+[Advanced React](https://v2.scrimba.com/advanced-react-c02h>
+
+[Learn Flexbox](https://v2.scrimba.com/learn-flexbox-c0k) 
 
 [Tread Lightly Certified Trainer](https://jasonsstorage.s3.amazonaws.com/Tread+Lightly+Trainer.pdf)
 
