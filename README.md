@@ -14,7 +14,7 @@ Certificate Link: https://v1.scrimba.com/certificate/uxyeZ9hM/gfrontend
 
 [Advanced React](https://v2.scrimba.com/advanced-react-c02h>)
 
-
+[React Router](https://v2.scrimba.com/learn-react-router-6-c06)
 
 [Tread Lightly Certified Trainer](https://jasonsstorage.s3.amazonaws.com/Tread+Lightly+Trainer.pdf)
 
