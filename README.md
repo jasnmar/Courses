@@ -16,6 +16,8 @@ Certificate Link: https://v1.scrimba.com/certificate/uxyeZ9hM/gfrontend
 
 [React Router](https://v2.scrimba.com/learn-react-router-6-c06)
 
+[Learn TypeScript](https://v2.scrimba.com/learn-typescript-c0l)
+
 [Tread Lightly Certified Trainer](https://jasonsstorage.s3.amazonaws.com/Tread+Lightly+Trainer.pdf)
 
 [Luma Fundamentals](https://www.luma-institute.com/)
